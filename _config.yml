@@ -1,11 +1,11 @@
 # Site settings
 author: Tommy Connor
-title: 
+title: Tommy's Blog
 header-img: img/home-bg.png
 email: tconnor98@aol.com
 copyright_name: Tommy Connor
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A blog of my thoughts
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  TomCon3
